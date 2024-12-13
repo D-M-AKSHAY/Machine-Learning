@@ -1,2 +1,2 @@
-# Machine-Learning-Lab
-Lab for the semester 6 machine learning lab course
+# Machine-Learning
+Important Concepts in Beginner Level of Machine Learning
